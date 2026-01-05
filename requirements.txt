@@ -1,0 +1,13 @@
+
+## 🚀 How to Run
+
+### ESP32
+1. Open `motion_server.ino` in Arduino IDE
+2. Enter your Wi-Fi credentials
+3. Upload to ESP32
+4. Note the ESP32 IP address from Serial Monitor
+
+### Python
+```bash
+pip install -r requirements.txt
+python motion_recording.py
